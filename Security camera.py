@@ -2,7 +2,7 @@
 import cv2
 import winsound
 
-# here we define cam variable and tell cv2 to captuer video.
+# here we define cam variable and tell cv2 to captuer  video.
 cam = cv2.VideoCapture(0)
 
 # to captuer the video we have first see wheather cam is on or not.
